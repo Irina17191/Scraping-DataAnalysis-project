@@ -11,7 +11,7 @@ into the job market trends and requirements for Python-related roles.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/you////
+   git clone https://github.com/Irina17191/Scraping-DataAnalysis-project/tree/develop  
    cd Scraping-DataAnalysis-project  
    ```
 
