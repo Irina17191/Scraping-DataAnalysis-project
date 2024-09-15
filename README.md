@@ -36,8 +36,8 @@ or have the data available locally.
 ## Usage
 
 
-1. Run the Scraping Script  
-This script will scrape job vacancy data and save it to vacancies.csv.
+1. Run the Scraping Script   
+This script will scrape job vacancy data and save it to vacancies.csv.  
     ```bash
    python scraper/scraper.py
    ```
