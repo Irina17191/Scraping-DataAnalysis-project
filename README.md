@@ -78,7 +78,7 @@ Open main.ipynb from the Jupyter interface and run the cells.
 
 ![Application Screenshot](preview_diagrams/6Salary Distribution by English Level.png)
 
-# 7orrelation Matrix
+# Correlation Matrix
 
 ![Application Screenshot](preview_diagrams/7Correlation Matrix.png)
 
