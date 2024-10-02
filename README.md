@@ -56,7 +56,7 @@ Open main.ipynb from the Jupyter interface and run the cells.
 ## Examples:  
 # Frequency of Skills in Job Vacancies  
 
-![Application Screenshot](preview_diagrams/1Frequency of Skills in Job Vacancies.png) 
+![Application Screenshot]("preview_diagrams/1Frequency of Skills in Job Vacancies.png") 
 
 # Experience Years vs Salary
 
