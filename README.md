@@ -56,29 +56,41 @@ Open main.ipynb from the Jupyter interface and run the cells.
 ## Examples:  
 # Frequency of Skills in Job Vacancies  
 
-![Application Screenshot]("preview_diagrams/1Frequency of Skills in Job Vacancies.png") 
+
+![Application Screenshot](preview_diagrams/1.png) 
+
 
 # Experience Years vs Salary
 
-![Application Screenshot](preview_diagrams/2Experience Years vs Salary.png)
+
+![Application Screenshot](preview_diagrams/2.png) 
+
 
 # Experience Years vs Salary with Linear Regression
 
-![Application Screenshot](preview_diagrams/3Experience Years vs Salary with Linear Regression.png)
+
+![Application Screenshot](preview_diagrams/3.png)
+
 
 # Experience Years vs Salary with Polynomial Regression
 
-![Application Screenshot](preview_diagrams/4Experience Years vs Salary with Polynomial Regression.png)
+
+![Application Screenshot](preview_diagrams/4.png)
+
 
 # Heatmap of Skill Frequencies
 
-![Application Screenshot](preview_diagrams/5Heatmap of Skill Frequencies.png)
+
+![Application Screenshot](preview_diagrams/5.png)
+
 
 # Salary Distribution by English Level
 
-![Application Screenshot](preview_diagrams/6Salary Distribution by English Level.png)
+
+![Application Screenshot](preview_diagrams/6.png)
+
 
 # Correlation Matrix
 
-![Application Screenshot](preview_diagrams/7Correlation Matrix.png)
 
+![Application Screenshot](preview_diagrams/7.png)
